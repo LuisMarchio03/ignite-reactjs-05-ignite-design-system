@@ -17,18 +17,20 @@
     "@storybook/addon-essentials": "^6.5.13",
     "@storybook/addon-interactions": "^6.5.13",
     "@storybook/addon-links": "^6.5.13",
+    "@storybook/addons": "^6.5.13",
     "@storybook/builder-vite": "^0.2.5",
     "@storybook/react": "^6.5.13",
     "@storybook/testing-library": "^0.0.13",
+    "@storybook/theming": "^6.5.13",
     "@vitejs/plugin-react": "^2.1.0",
     "babel-loader": "^8.2.5",
     "vite": "^3.1.4"
   },
   "dependencies": {
     "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
     "@ignite-ui/react": "*",
     "@ignite-ui/tokens": "*",
+    "@ignite-ui/ts-config": "*",
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
