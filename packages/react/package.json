@@ -8,7 +8,7 @@
   "scripts": {
     "build": "tsup src/index.tsx --format esm,cjs --dts --external react",
     "dev": "tsup src/index.tsx --format esm,cjs --dts --external react --watch",
-    "lint": "eslint src/**/*.{ts,tsx} --fix"
+    "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
   "author": "",
